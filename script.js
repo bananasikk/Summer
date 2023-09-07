@@ -45,4 +45,4 @@ function countdown(dateEnd) {
   
   
   
-  countdown ('09/1/2023 00:00:00 AM');
+  countdown ('10/31/2023 00:00:00 AM');
